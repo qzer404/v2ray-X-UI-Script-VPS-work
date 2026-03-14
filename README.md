@@ -17,7 +17,7 @@ Gunakan printah dibawah ini untuk melakukan instalasi curl, ini berfungsi untuk 
 
 ### #3. Install V2ray Dengan Panel X-UI
 
-``Untuk script auto installer v2ray silahkan gunakan perintah dibawah ini``
+``bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)``
 
 ### #4. Install Certificate
 
